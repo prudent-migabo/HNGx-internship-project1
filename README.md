@@ -1,16 +1,10 @@
-# hngx_project1
+# personal details app
 
-A new Flutter project.
+This is Task-1 of HNG internship. It is a Mobile Application with Personal Details
 
-## Getting Started
+  - The first step is to install the app,
+  - After installing and open the app you are going to see my personal slack details including my username and my profile photo.
+  - The same page contains a button labelled "Open Github" which launches my github profile web page inside the app.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Please check out the appetize behavior [here](https://appetize.io/app/wwy4ycuto3wyix75w442fhkhl4)
+I am looking forward to your good feedback. Thank you
